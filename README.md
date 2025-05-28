@@ -1,5 +1,5 @@
 # Python-OrtaSeviyeProjeler
-# 🐍 Python Gelişmiş Projeler Serisi 
+# 🐍 Python Gelişmiş Projeler Serisi  -2. Kısım
 
 Bu belgede, Python ile yapılmış ileri düzey 20 proje yer almaktadır. Projeler; web kazıma, veritabanı işlemleri, API entegrasyonları, GUI ve otomasyon gibi farklı alanlara yöneliktir.
 
